@@ -1,0 +1,81 @@
+body {
+  background-color: rgb(244, 248, 249);
+  font-family: Helvetica;
+}
+.tweet {
+  border: 2px solid rgb(225, 232, 237);
+  background: rgb(255,255,255);
+  border-radius: 10px;
+  padding: 20px 20px 11.6px 20px;
+  width: 700px;
+}
+.header {
+  height: 100px;
+}
+.body {
+  color: rgb(0, 0, 0);
+  padding-left: 3px;
+  height: 100px;
+}
+.bottom {
+  color: rgb(105, 120, 130);
+  height: 50px;
+}
+.user-name {
+  color: rgb(0, 0, 0);
+  margin: 0;
+  font-size: 30px;
+  font-weight: bold;
+  padding-left: 10px;
+}
+.user-account {
+  color: rgb(104, 109, 129);
+  font-size: 27px;
+  margin: 0;
+}
+.follow-button {
+  float: right;
+  padding: 10px;
+  color: rgb(85, 172, 238);
+  font-weight: bold;
+  border-color: rgb(85, 172, 238);
+  background-color: white;
+  border-radius: 5px;
+  width: 140px;
+  font-size: 25px;
+  margin: 10px 20px;
+}
+p {
+  margin: 10px;
+  font-size: 30px;
+}
+time {
+  color: rgb(101, 116, 127);
+  padding-left: 8px;
+  font-size: 27px;
+}
+.acc-logo {
+  padding-right: 5px;
+  padding-top: 13px;
+}
+.val-acc {
+  padding-left: 10px;
+}
+.profile-pic {
+  float: left;
+  margin: 10px 20px 10px 10px;
+}
+.icon {
+  padding-right: 10px
+}
+.icon-number {
+  padding-right: 32px;
+  font-size: 26px;
+}
+.iconic {
+  padding-right: 35px;
+  padding-left: 15px;
+}
+.bird {
+  float: left;
+}
